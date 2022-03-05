@@ -23,9 +23,9 @@ Hello, I am Elijah, a college student (also a programmer, well, not yet) from Ch
 
 
 <table style="border:none">
-    <tr style="border:none">
-    <td style="border:none"><img align="center" width="400px" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elijah-0616&layout=compact" /></td>
-    <td style="border:none"><img align="center" width="400px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Elijah-0616&show_icons=true&include_all_commits=true" /></td>
+    <tr>
+    <td><img align="center" width="400px" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elijah-0616&layout=compact" /></td>
+    <td><img align="center" width="400px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Elijah-0616&show_icons=true&include_all_commits=true" /></td>
     </tr>
 </table>
 
