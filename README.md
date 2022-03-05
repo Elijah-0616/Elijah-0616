@@ -22,6 +22,5 @@ Here are some ideas to get you started:
 
 ## Some of my Github Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Elijah-0616&show_icons=true&hide_title=true" />
+<img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Elijah-0616&show_icons=true&include_all_commits=true" />
 <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elijah-0616&layout=compact" />
-
