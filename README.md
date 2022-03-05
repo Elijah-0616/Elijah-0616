@@ -8,8 +8,6 @@ System.out.println("Hello World!!!");
 
 Hello, I am Elijah, a college student (also a programmer, well, not yet) from Chong Qing China! Welcome to my world, welcome to our world! 👋
 
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning ...
 
 - Java
@@ -24,10 +22,10 @@ Here are some ideas to get you started:
 
 
 
-<table style="border:0">
-    <tr>
-    <td><img align="center" width="400px" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elijah-0616&layout=compact" /></td>
-    <td><img align="center" width="400px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Elijah-0616&show_icons=true&include_all_commits=true" /></td>
+<table style="border:none">
+    <tr style="border:none">
+    <td style="border:none"><img align="center" width="400px" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elijah-0616&layout=compact" /></td>
+    <td style="border:none"><img align="center" width="400px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Elijah-0616&show_icons=true&include_all_commits=true" /></td>
     </tr>
 </table>
 
