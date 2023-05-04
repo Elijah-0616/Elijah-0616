@@ -1,4 +1,4 @@
-> ### **爱意随风起，风止意难平，山水一程，已是三生有幸:)**
+> ### **山水一程，已是三生有幸:)**
 
 ```java
 System.out.println("Hello!!!");
@@ -11,13 +11,18 @@ Hello, I am Elijah, a college student (also a programmer, well, not yet) from Ch
 
 - 🌱 I’m currently learning ...
 
-- Java
+- ~Java~
 
-- CSS
+- ~CSS~
 
-- JavaScript
+- ~JavaScript~
 
-- C#
+- ~C#~
+- C4D
+- Blender
+- unity3D
+- 3DS Max
+- vray
 
 ## Some of my Github Stats
 
